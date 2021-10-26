@@ -1,5 +1,25 @@
 # PokerGame
 
+## Requirements
+
+ * Visual Studio Code
+ * Java JDK
+ * Extension Pack Java in VSC. Refer to the [documentation](https://code.visualstudio.com/docs/java/extensions)
+
+## Installation
+
+Clone the repository
+
+```bash
+$ git clone https://github.com/reinosobs/Poker_Test.git
+```
+
+Access the folder where the repository is stored and use the following command
+
+```bash
+$ code .
+```
+
 ## Start to play
 
 First question is if you want to play with jokers or without them. The difference between the games is the evaluation of the hand. 
